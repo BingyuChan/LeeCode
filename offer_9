@@ -1,0 +1,2 @@
+Stack：LinkedList<Integer> stack = new LinkedList();
+非空判断：Stack.isEmpty()
